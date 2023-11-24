@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Oving_5/Matrise/Matrise.iml" filepath="$PROJECT_DIR$/Oving_5/Matrise/Matrise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Oving_5/MinRandom.iml" filepath="$PROJECT_DIR$/Oving_5/MinRandom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Oving10/Oving10_1/Oving10_1.iml" filepath="$PROJECT_DIR$/Oving10/Oving10_1/Oving10_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Oving10/Oving_10_2/Oving_10_2.iml" filepath="$PROJECT_DIR$/Oving10/Oving_10_2/Oving_10_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Oving_11/Oving_11.iml" filepath="$PROJECT_DIR$/Oving_11/Oving_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Oving_4/Oving_4.iml" filepath="$PROJECT_DIR$/Oving_4/Oving_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Oving_8/Oving_8.iml" filepath="$PROJECT_DIR$/Oving_8/Oving_8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Oving_9/Oving_9.iml" filepath="$PROJECT_DIR$/Oving_9/Oving_9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Oving_5/fraction/fraction.iml" filepath="$PROJECT_DIR$/Oving_5/fraction/fraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ovinger.iml" filepath="$PROJECT_DIR$/.idea/ovinger.iml" />
+    </modules>
+  </component>
+</project>
